@@ -6,7 +6,4 @@ jquery-scoll-top
 使用方法:
 ================
 
-  $('.top').scollTop({
-    scrollDuration:1000, //指定回到顶部所用时间 1 秒
-    scrollTop:200 // 指定浏览器滚动条滚动大于200px的时候，显示回到顶部链接
-  })
+见index.html
